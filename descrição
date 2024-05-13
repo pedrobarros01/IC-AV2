@@ -1,0 +1,18 @@
+ conjunto de dados contendo diversas variáveis sobre habitação e demografia nas 50 principais cidades americanas por população.
+
+Variáveis:
+
+ - Código Postal: Código postal onde o anúncio está localizado.
+ - Preço: Preço listado para o imóvel.
+ - Camas: Número de camas mencionadas no anúncio.
+ - Banheiros: Número de banheiros mencionados no anúncio.
+ - Espaço Habitável: O tamanho total do espaço habitável, em pés quadrados, mencionado no anúncio.
+ - Endereço: Endereço da rua do anúncio.
+ - Cidade: Nome da cidade onde o anúncio está localizado.
+ - Estado: Nome do estado onde o anúncio está localizado.
+ - População do Código Postal: O número estimado de indivíduos dentro do código postal. Dados de Simplemaps.com.
+ - Densidade do Código Postal: O número estimado de indivíduos por milha quadrada dentro do código postal. Dados de Simplemaps.com.
+ - Condado: Condado onde o anúncio está localizado.
+- Renda Média das Famílias: Renda familiar média estimada. Dados do U.S. Census Bureau.
+- Latitude: Latitude do código postal. Dados de Simplemaps.com.
+- Longitude: Longitude do código postal. Dados de Simplemaps.com.
